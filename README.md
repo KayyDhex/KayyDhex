@@ -1,7 +1,6 @@
 ### Hi there, I'm KayyDhex - Hans Correa👋
 
 - 🔭 I’m currently working on Hackmonkeys as software developer.
-- 🌱 I’m currently learning frontend and some script of python. 
 
 ## ❯ GitHub Stats
 
